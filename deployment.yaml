@@ -17,7 +17,7 @@ spec:
      containers:
      - name: node
       #  image: <your docker image>:latest
-      #  image: cheongj/springboot-dmp:latest
-       image: public.ecr.aws/u2q1a2y8/soon-node-docker-ecr-20240422
+       image: cheongj/springboot-dmp:latest
+      #  image: public.ecr.aws/u2q1a2y8/soon-node-docker-ecr-20240422
        ports:
        - containerPort: 8080 
