@@ -18,6 +18,6 @@ spec:
      - name: node
       #  image: <your docker image>:latest
       #  image: cheongj/springboot-dmp:latest
-       image: 255945442255.dkr.ecr.us-east-1.amazonaws.com/albert-ecr-repository
+       image: public.ecr.aws/u2q1a2y8/soon-node-docker-ecr-20240422
        ports:
        - containerPort: 8080
