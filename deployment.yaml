@@ -20,4 +20,4 @@ spec:
       #  image: cheongj/springboot-dmp:latest
        image: public.ecr.aws/u2q1a2y8/soon-node-docker-ecr-20240422
        ports:
-       - containerPort: 8080
+       - containerPort: 8080 
